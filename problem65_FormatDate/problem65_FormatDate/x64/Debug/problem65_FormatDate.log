@@ -1,0 +1,5 @@
+﻿  problem65_FormatDate.cpp
+C:\Users\hp\source\repos\algorithem Level 4\problem65_FormatDate\problem65_FormatDate\problem65_FormatDate.cpp(19,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\source\repos\algorithem Level 4\problem65_FormatDate\problem65_FormatDate\problem65_FormatDate.cpp(54,41): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\source\repos\algorithem Level 4\problem65_FormatDate\problem65_FormatDate\problem65_FormatDate.cpp(59,40): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  problem65_FormatDate.vcxproj -> C:\Users\hp\source\repos\algorithem Level 4\problem65_FormatDate\x64\Debug\problem65_FormatDate.exe

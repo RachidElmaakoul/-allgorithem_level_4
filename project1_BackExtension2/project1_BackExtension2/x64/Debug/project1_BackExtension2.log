@@ -1,0 +1,8 @@
+﻿  project1_BackExtension2.cpp
+C:\Users\hp\source\repos\algorithem Level 4\project1_BackExtension2\project1_BackExtension2\project1_BackExtension2.cpp(69,33): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\hp\source\repos\algorithem Level 4\project1_BackExtension2\project1_BackExtension2\project1_BackExtension2.cpp(875): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\hp\source\repos\algorithem Level 4\project1_BackExtension2\project1_BackExtension2\project1_BackExtension2.cpp(957): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\hp\source\repos\algorithem Level 4\project1_BackExtension2\project1_BackExtension2\project1_BackExtension2.cpp(997): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+C:\Users\hp\source\repos\algorithem Level 4\project1_BackExtension2\project1_BackExtension2\project1_BackExtension2.cpp(1024): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\hp\source\repos\algorithem Level 4\project1_BackExtension2\project1_BackExtension2\project1_BackExtension2.cpp(917): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+  project1_BackExtension2.vcxproj -> C:\Users\hp\source\repos\algorithem Level 4\project1_BackExtension2\x64\Debug\project1_BackExtension2.exe
